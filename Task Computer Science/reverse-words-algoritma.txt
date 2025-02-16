@@ -1,0 +1,15 @@
+Algoritma Deskriptif Membalik Urutan Kata dalam Kalimat
+
+1. Mulai.
+
+2. Input sebuah kalimat yang akan diubah urutan katanya.
+
+3. Pisahkan kalimat menjadi array kata-kata berdasarkan spasi.
+
+4. Balik urutan elemen dalam array kata-kata.
+
+5. Gabungkan kembali array kata-kata yang sudah dibalik menjadi sebuah kalimat dengan spasi sebagai pemisah.
+
+6. Output kalimat yang sudah dibalik urutan katanya.
+
+7. Selesai.

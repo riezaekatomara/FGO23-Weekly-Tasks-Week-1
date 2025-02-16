@@ -1,0 +1,20 @@
+Algoritma Deskriptif Mendeteksi Palindrom
+
+
+1. Mulai.
+
+2. Input teks yang akan diperiksa.
+
+3. Hilangkan spasi dan ubah semua huruf menjadi huruf kecil (atau besar) untuk memastikan pemeriksaan tidak terpengaruh oleh kapitalisasi atau spasi.
+
+4. Balik urutan karakter dari teks yang sudah dibersihkan.
+
+5. Bandingkan teks asli yang sudah dibersihkan dengan teks yang sudah dibalik.
+
+Jika sama, maka teks tersebut adalah palindrom.
+
+Jika tidak sama, maka teks tersebut bukan palindrom.
+
+6. Output hasil pemeriksaan (palindrom atau bukan).
+
+7. Selesai.
